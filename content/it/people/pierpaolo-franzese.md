@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Pierpaolo Franzese
@@ -7,7 +6,7 @@ title: Pierpaolo Franzese
 superuser: false
 
 # Role/position
-role: Associato Neptun-IA
+role: Fondatore Neptun-IA
 
 # Organizations/Affiliations
 organizations:
@@ -52,3 +51,9 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+
+Professore associato in Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+
+# Ricerca
+
+# Didattica
