@@ -45,4 +45,4 @@ enableRobotsTXT = true
   #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
   recent_projects_number = 2
-  mainSections = ["projects","labs","people","about"]
+  mainSections = ["projects"]
