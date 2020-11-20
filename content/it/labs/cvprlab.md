@@ -3,6 +3,9 @@ description: "Computer Vision & Pattern Recognition Laboratory"
 featured_image: "/images/cvprlab001.jpeg"
 tags: ["lab"]
 title: 'CVPR Lab “Alfredo Petrosino”'
+logo: "/images/cvprlab_logo.png"
+website: http://cvprlab.uniparthenope.it
+pi: Francesco Camastra, Alessio Ferone
 ---
 
 Il gruppo Computer Vision e Pattern Recognition fa parte del Dipartimento di Scienze e Tecnologie dell'Università degli Studi di Napoli “Parthenope”. La ricerca prevista copre un ampio spettro di questioni relative alla visione artificiale e al riconoscimento di modelli, all'elaborazione delle immagini e partecipa a una varietà di progetti applicati, in cui vengono sfruttati i risultati e il know-how di tali programmi.
