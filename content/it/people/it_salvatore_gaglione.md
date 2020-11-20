@@ -14,7 +14,7 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/507"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore associato in Topografia e Cartografia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+bio: Professore associato in Topografia e Cartografia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Navigazione.
 
 interests:
 -
