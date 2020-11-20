@@ -3,7 +3,9 @@ description: "Computational Intelligence and Smart Systems Laboratory"
 featured_image: "/images/cisslab001.jpeg"
 tags: ["lab"]
 title: "CI&SS Lab"
+logo: "/images/cisslab_logo.png"
 website: http://ciss.uniparthenope.it
+pi: Angelo Ciaramella, Antonio Maratea
 ---
 
 Il Computational Intelligence and Smart Systems Lab (CI & SSLab) è un laboratorio di ricerca del Dipartimento di Scienza e Tecnologia dell'Università degli Studi di Napoli “Parthenope”.
