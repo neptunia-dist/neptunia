@@ -2,7 +2,7 @@
 date: 2020-11-17
 description: "Centro per il Monitoraggio e la Modellistica Marina e Atmosferica"
 featured_image: "/images/cmmma001.png"
-tags: ["progetto","meteo"]
+tags: ["progetto","meteo","HPSCSmartLab"]
 title: "CMMMA"
 website: http://meteo.uniparthenope.it
 pi: Giorgio Budillon
