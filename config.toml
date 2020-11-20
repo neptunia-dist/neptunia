@@ -3,7 +3,7 @@ baseURL = "https://neptunia.uniparthenope.it"
 languageCode = "en-us"
 theme = "ananke"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "it"
 SectionPagesMenu = "main"
 
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -33,7 +33,7 @@ enableRobotsTXT = true
   twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/neptunia-dist"
   gitlab = ""
   linkedin = ""
   mastodon = ""
@@ -44,5 +44,5 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
-  recent_projects_number = 2
+  recent_projects_number = 10
   mainSections = ["projects"]
