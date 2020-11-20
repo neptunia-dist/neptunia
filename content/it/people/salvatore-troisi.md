@@ -51,3 +51,10 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+
+Professore Ordinario in Topografia e Cartografia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+
+# Ricerca
+
+# Didattica
+
