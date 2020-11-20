@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Salvetore Gaglione
+title: Salvatore Gaglione
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associato Neptun-IA
+role: Fondatore Neptun-IA
 
 # Organizations/Affiliations
 organizations:
