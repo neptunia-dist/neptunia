@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Antonio Scamardella
@@ -7,7 +6,7 @@ title: Antonio Scamardella
 superuser: false
 
 # Role/position
-role: Associato Neptun-IA
+role: Fondatore Neptun-IA
 
 # Organizations/Affiliations
 organizations:
