@@ -14,7 +14,7 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/2314"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore associato in Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Ecodinamica e Sviluppo Sostenibile.
+bio: Professore Associato in Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Ecodinamica e Sviluppo Sostenibile.
 
 interests:
 -
@@ -52,7 +52,7 @@ highlight_name: false
 #- Visitors
 ---
 
-Professore associato in Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+Professore Associato in Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
 
 # Ricerca
 
