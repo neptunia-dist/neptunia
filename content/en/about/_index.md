@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Multidisciplinary Research Laboratory for the Artificial Intelligence at the Sea."
-featured_image: ''
+featured_image: "/images/about001.png"
 weight: 40
 type: "page"
 ---
