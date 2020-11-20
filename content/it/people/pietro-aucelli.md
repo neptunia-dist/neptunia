@@ -14,7 +14,7 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/2985"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore associato in Geografia Fisica e Geomorfologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Sedimentologia e Geomorfologia.
+bio: Professore Associato in Geografia Fisica e Geomorfologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Sedimentologia e Geomorfologia.
 
 interests:
 -
@@ -51,3 +51,10 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+
+Professore Associato in Geografia Fisica e Morfologica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+
+# Ricerca
+
+# Didattica
+
