@@ -1,6 +1,7 @@
 ---
 title: "Progetti"
-date: 2017-03-02T12:00:00-05:00
+date: 2020-11-11
+feature_image: "/images/projects001.png"
 weight: 10
 ---
 
