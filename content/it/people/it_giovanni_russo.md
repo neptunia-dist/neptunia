@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:angelo.ciaramella@uniparthenope.it'
+  link: 'mailto:giovanni.russo@uniparthenope.it'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZZsKc20AAAAJ&hl=en
