@@ -1,7 +1,8 @@
 ---
 title: "Projects"
-date: 2017-03-02T12:00:00-05:00
+date: 2020-11-17
 weight: 10
+featured_image: "/images/projects001.jpeg"
 ---
 
 Some of the projects osted by Neptun-IA:
