@@ -1,4 +1,7 @@
 ---
+
+weight: 1
+
 # Display name
 title: Giulio Giunta
 
