@@ -1,8 +1,11 @@
 ---
 description: "High Performance Scientific Computing SmartLab"
-featured_image: "/images/hpscsmartlab001.joeg"
+featured_image: "/images/hpscsmartlab001.jpeg"
 tags: ["lab"]
 title: "HPSC SmartLab"
+logo: "/images/hpsclab_logo.png"
+website: http://hpsc.uniparthenope.it
+pi: Giulio Giunta, Raffaele Montella
 ---
 
 L'HPSC SmartLab (acronimo di High-Performance Scientific Computing Smart Laboratory) è il Laboratorio di Ricerca Scientifica Applied High-Performance del “Dipartimento di Scienza e Tecnologia” (DiST, http://dist.uniparthenope.it) - Università di Napoli “Parthenope” - Italia (fondata nel 2007).
