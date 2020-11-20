@@ -51,3 +51,9 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+
+Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+
+# Ricerca
+
+# Didattica
