@@ -6,7 +6,7 @@ title: Claudio Parente
 superuser: false
 
 # Role/position
-role: Associato Neptun-IA
+role: Fondatore Neptun-IA
 
 # Organizations/Affiliations
 organizations:
