@@ -1,7 +1,7 @@
 ---
 title: "Informazioni"
 description: "Laboratorio di Ricerca Multidisciplinare per l'Intelligenza Artificiale in Mare."
-featured_image: ''
+featured_image: "/images/about001.png"
 weight: 40
 type: "page"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Progetti"
 date: 2020-11-11
-feature_image: "/images/projects001.png"
+featured_image: "/images/projects001.png"
 weight: 10
 ---
 

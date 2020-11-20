@@ -1,6 +1,7 @@
 ---
 title: "Persone"
-date: 2017-03-02T12:00:00-05:00
+date: 2020-11-17
+featured_image: "/images/people001.png"
 weight: 30
 ---
 
