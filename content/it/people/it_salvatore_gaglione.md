@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angelo Ciaramella
+title: Salvetore Gaglione
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,10 +11,10 @@ role: Associato Neptun-IA
 # Organizations/Affiliations
 organizations:
 - name: Università di Napoli "Parthenope"
-  url: "https://www.uniparthenope.it/ugov/person/2497"
+  url: "https://www.uniparthenope.it/ugov/person/507"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca Computational Intelligence & Smart System Lab.
+bio: Professore associato in Topografia e Cartografia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
 
 interests:
 -
@@ -23,9 +23,9 @@ interests:
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+#  - course: 
+#    institution: 
+#    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,10 +34,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:angelo.ciaramella@uniparthenope.it'
+  link: 'mailto:salvatore.gaglione@uniparthenope.it'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.it/citations?user=8TfWi0EAAAAJ
+  link: https://scholar.google.it/citations?user=hfW-INMAAAAJ&hl=it
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
