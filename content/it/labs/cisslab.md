@@ -1,6 +1,7 @@
 ---
+date: 2020-11-17
 description: "Computational Intelligence and Smart Systems Laboratory"
-featured_image: "/images/cisslab001.jpeg"
+featured_image: "/images/cisslab001.png"
 tags: ["lab"]
 title: "CI&SS Lab"
 logo: "/images/cisslab_logo.png"
