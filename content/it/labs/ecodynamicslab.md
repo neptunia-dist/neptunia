@@ -10,7 +10,7 @@ website: https://ecodynamics-uniparthenope.weebly.com/
 pi: Pierpaolo Franzese
 ---
 
-The PANG Group Laboratory is dedicated to the research, development and improvement of navigation technologies.
+Il Laboratory of Ecodynamics and Sustainable Development è un laboratorio di ricerca del Dipartimento di Scienza e Tecnologia dell'Università degli Studi di Napoli “Parthenope”.
 
 * **_HUMAN-ENVIRONMENT INTERACTIONS_**
 * **_ENVIRONMENTAL ACCOUNTING AND INDICATORS_**
