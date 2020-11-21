@@ -1,6 +1,6 @@
 ---
 description: "High Performance Scientific Computing SmartLab"
-featured_image: "/images/hpscsmartlab001.jpeg"
+featured_image: "/images/hpscsmartlab001.png"
 tags: ["lab"]
 title: "HPSC SmartLab"
 logo: "/images/hpsclab_logo.png"
