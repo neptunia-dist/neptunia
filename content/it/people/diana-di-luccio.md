@@ -39,7 +39,7 @@ social:
   link: 'mailto:diana.diluccio@uniparthenope.it'
 - icon: scopus
   icon_pack: ai
-  link https://www.scopus.com/authid/detail.uri?authorId=
+  link: https://www.scopus.com/authid/detail.uri?authorId=57193751563
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=ZZnj7-oAAAAJ
