@@ -18,12 +18,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Assegnista di Ricerca in presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope" dal 2016. Nel 2012 si è laureata presso la stessa Università in Scienze Ambientali con lode e menzione alla carriera. Nel 2018 ha conseguito il Dottorato di Ricerca in Fenomeni e Rischi Ambientali discutendo una tesi sull'applicazione di modelli numerici di simulazione allo studio dei processi di idrodinamica costiera associati ad eventi meteo-marini estremi. 
 
-Her main research interests focus on the application of meteo-oceanographical modeling in High Performance Computing (HPC) environment to forecast and manage the potential risks for citizens and infrastructure deriving from weather-marine events. The applications are mostly focused to the coastal areas with the use of regional numerical models. Her interest is also focused on the use of data crowdsourcing platforms based on IoT and mobile/cloud computing technologies to collect useful data to improve the accuracy of numerical forecasting models.
-
 interests:
--
--
--
+- Application of meteo-oceanographical modeling in High Performance Computing (HPC) environment to forecast and manage the potential risks for citizens and infrastructure deriving from weather-marine events. The applications are mostly focused to the coastal areas with the use of regional numerical models. 
+- Use of data crowdsourcing platforms based on IoT and mobile/cloud computing technologies to collect useful data to improve the accuracy of numerical forecasting models.
+
 
 #education:
 #  courses:
