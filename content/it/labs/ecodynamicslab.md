@@ -2,7 +2,7 @@
 ---
 date: 2020-11-17
 description: "Laboratory of Ecodynamics and Sustainable Development"
-featured_image: "/images/ecodynamicslab.png"
+featured_image: "/images/ecodynamicslab001.png"
 tags: ["lab"]
 title: "ECODYNAMICS Lab"
 logo: "/images/ecodynamicslab_logo.png"
