@@ -16,7 +16,8 @@ organizations:
 - name: Università di Napoli "Parthenope"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assegnista di Ricerca in ... presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+bio: Research Fellow at Department of Science and Technology of University of Naples “Parthenope” since 2016. Here she is earning the PhD in Environmental Phenomena and Risks in 2018, defending a thesis on the application of numerical simulation models to study the coastal hydrodynamics processes associated with the extreme weather-marine events. Her main research interests focus on the application of meteo-oceanographical modeling in High Performance Computing (HPC) environment to forecast and manage the potential risks for citizens and infrastructure deriving from weather-marine events. The applications are mostly focused to the coastal areas with the use of regional numerical models. Her interest is also focused on the use of data crowdsourcing platforms based on IoT and mobile/cloud computing technologies to collect useful data to improve the accuracy of numerical forecasting models.
+
 
 interests:
 -
