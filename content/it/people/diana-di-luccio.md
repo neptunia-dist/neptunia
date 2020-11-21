@@ -57,7 +57,7 @@ highlight_name: false
 #- Visitors
 ---
 
-Assegnista di Ricerca in presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope"
+Assegnista di Ricerca in presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope" dal 2016. Nel 2012 si è laureata presso la stessa Università in Scienze Ambientali con lode e menzione alla carriera. Nel 2018 ha conseguito il Dottorato di Ricerca in Fenomeni e Rischi Ambientali discutendo una tesi sull'applicazione di modelli numerici di simulazione allo studio dei processi di idrodinamica costiera associati ad eventi meteo-marini estremi. 
 
 # Ricerca
 
