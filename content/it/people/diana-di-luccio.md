@@ -58,7 +58,6 @@ highlight_name: false
 ---
 
 # Ricerca
-
 Her main research interests focus on the application of meteo-oceanographical modeling in High Performance Computing (HPC) environment to forecast and manage the potential risks for citizens and infrastructure deriving from weather-marine events. The applications are mostly focused to the coastal areas with the use of regional numerical models. Her interest is also focused on the use of data crowdsourcing platforms based on IoT and mobile/cloud computing technologies to collect useful data to improve the accuracy of numerical forecasting models.
 
 
