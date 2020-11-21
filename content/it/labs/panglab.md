@@ -1,7 +1,7 @@
 ---
 date: 2020-11-17
 description: "PArthenope Navigation Group Laboratory"
-featured_image: "/images/pang.png"
+featured_image: "/images/panglab001.png"
 tags: ["lab"]
 title: "PANG Lab"
 logo: "/images/panglab_logo.png"
