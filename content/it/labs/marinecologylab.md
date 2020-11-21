@@ -1,16 +1,15 @@
 ---
 description: "Computational Intelligence and Smart Systems Laboratory"
-featured_image: "/images/cisslab001.jpeg"
+featured_image: "/images/marineecology.jpeg"
 tags: ["lab"]
-title: "CI&SS Lab"
-logo: "/images/cisslab_logo.png"
-website: http://ciss.uniparthenope.it
-pi: Angelo Ciaramella, Antonio Maratea
+title: "MARINEECOLOGY Lab"
+logo: "/images/marineecology_logo.png"
+website: https://marinecologylab.uniparthenope.it/
+pi: Giovanni Fulvio Russo
 ---
 
 Il Marine Ecology and Biology Lab è un laboratorio di ricerca del Dipartimento di Scienza e Tecnologia dell'Università degli Studi di Napoli “Parthenope”.
-Le principali attività riguardano ricerche fondamentali e applicate nel campo dell'Intelligenza Artificiale (AI) e, in particolare, nell'Intelligenza Computazionale (CI).
-CI è la teoria, la progettazione, l'applicazione e lo sviluppo di paradigmi computazionali motivati biologicamente e linguisticamente.
+Le principali attività riguardano:
 
 * **_Mediterranean and Antactic Macro and Meiobenthos ecology_**
 
