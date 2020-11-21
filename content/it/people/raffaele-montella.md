@@ -45,7 +45,7 @@ social:
   link: 'mailto:raffaele.montella@uniparthenope.it'
 - icon: scopus
   icon_pack: ai
-  link https://www.scopus.com/authid/detail.uri?authorId=9235980600
+  link: https://www.scopus.com/authid/detail.uri?authorId=9235980600
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=JNscMYkAAAAJ
