@@ -4,7 +4,7 @@ description: "PArthenope Navigation Group Laboratory"
 featured_image: "/images/pang.png"
 tags: ["lab"]
 title: "PANG Lab"
-logo: "/images/cisslab_logo.png"
+logo: "/images/panglab_logo.png"
 website: https://www.pang.uniparthenope.it/
 pi: Salvatore Gaglione
 ---
