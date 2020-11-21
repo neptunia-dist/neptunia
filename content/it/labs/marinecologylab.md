@@ -1,8 +1,9 @@
 ---
-description: "Computational Intelligence and Smart Systems Laboratory"
-featured_image: "/images/marineecology.jpeg"
+date: 2020-11-17
+description: "Marine Ecology and Biology Laboratory"
+featured_image: "/images/marinecologylab001.png"
 tags: ["lab"]
-title: "MARINEECOLOGY Lab"
+title: "marinEcology Lab"
 logo: "/images/marineecology_logo.png"
 website: https://marinecologylab.uniparthenope.it/
 pi: Giovanni Fulvio Russo
