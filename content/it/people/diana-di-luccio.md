@@ -61,7 +61,10 @@ Assegnista di Ricerca in presso il Dipartimento di Scienze e Tencologie dell'Uni
 
 # Ricerca
 I principali interessi di ricerca sono:
+- Data Science.
 - Application of meteo-oceanographical modeling in High Performance Computing (HPC) environment to forecast and manage the potential risks for citizens and infrastructure deriving from weather-marine events. The applications are mostly focused to the coastal areas with the use of regional numerical models. 
 - Use of data crowdsourcing platforms based on IoT and mobile/cloud computing technologies to collect useful data to improve the accuracy of numerical forecasting models.
+
 # Didattica
+Cultore della materia per i corsi di: Cloud Computing (Laurea Magistrale in Informatica Applicata).
 
