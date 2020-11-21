@@ -56,7 +56,7 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
-
+Assegnista di Ricerca in presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope"
 # Ricerca
 
 # Didattica
