@@ -1,6 +1,7 @@
 ---
+date: 2020-11-17
 description: "Computer Vision and Pattern Recogniton Laboratory"
-featured_image: "/images/cvprlab001.jpeg"
+featured_image: "/images/cvprlab001.png"
 tags: ["lab"]
 title: 'CVPR Lab “Alfredo Petrosino”'
 ---
