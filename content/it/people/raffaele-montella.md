@@ -20,9 +20,14 @@ organizations:
 bio: Ricercatore in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca High Performance Computing SmartLab (HPSCSmartLab). Responsabile della Research Computing Facilities (RCF) del Dipartimento di Scienze e Tecnologie).
 
 interests:
--
--
--
+- Strumenti per le scienze ambientali computazionali e la modellistica previsionale.
+- Strumenti per il calcolo parallelo ad alte prestazioni.
+- Mobile Computing, Embedded Computing & Cloud Computing.
+- Virtualizzazine di GPU.
+- Workflow scientifici e data gateway.
+- Applicazioni dell'Intelligenza Artificiale al mare a all'ambiente.
+- Data crowdsourcing.
+- Internet of Things e applicazioni marine (Internet of Floating Things).
 
 #education:
 #  courses:
@@ -38,12 +43,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:raffaele.montella@uniparthenope.it'
+- icon: scopus
+  icon_pack: ai
+  link https://www.scopus.com/authid/detail.uri?authorId=9235980600
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?user=JNscMYkAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "raffaele.montella@uniparthenope.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
