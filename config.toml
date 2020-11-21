@@ -26,6 +26,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  cover_dimming_class = "bg-black-40"
   favicon = ""
   site_logo = ""
   description = "Multidisciplinary Research Laboratory for the Artificial Intelligence at the Sea"
