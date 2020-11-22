@@ -62,6 +62,11 @@ highlight_name: false
 Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
 
 # Ricerca
+Angelo Ciaramella (AC) si è laureato (cum laude) in Scienze dell'Informazione presso l'Univesrità degli Studi di Salerno nel 1998 e presso lo stesso Ateneo ha ottenuto il Dottorato di Ricerca in Informatica nel 2002. Attualmente è Professore Associato, Presidente del Consiglio di Corso di Studi in Informatica, direttore dell' Apple iOS Foundation Program e direttore del "Computational Intelligence and Smart Systems Lab" presso l'Univesrità degli Studi di Napoli “Parthenope”.  Le attività di ricerca sono principlamente focalizzatre sulla Computational Intelligence, il Machine Learning il Data Mining nei settori dell'Intelligence Signal Processing, Bioinformatics e Computer Vision. AC è associate editor di journal internazionali (i.e., Information Sciences, Soft Computing, International Journal on Artificial Intelligence Tools), co-editor di volumi (Internet and Distributed Computing Systems (LNBI), Computational Intelligence Methods for Bioinformatics and Biostatistics (LNBI)) e guest editor di Special Issue (Recent Machine Learning Applications to Internet of Things (IoT), Electronics). Egli è stato co-general Chair (IDCS2019), technical chair (CIBB2018), organizatore e chair di Special Session (i.e., CIBB2018, WIRN2018-2019, Fuzz-IEEE 2017, NAFIPS 2004), ed è nel Program Committee di conferenze internazionali (CIBB2018-2019, Fuzz-IEEE 2017, GCIS, ICIC2005-2020, AI2IA 2020). AC è Senior Member dell'IEEE e membro dell'IEEE Computational Intelligence Society, IEEE Signal Processing, SIREN, GIRPR e AIxIA.
+
 
 # Didattica
-
+I corsi tenuti da Angelo Ciaramella sono:
+- Machine Learning, Corso di Laurea in Informatica Applicata (Machine Learning e Big data), Università degli Studi di Napoli Parthenope
+- Intelligent Signal Peocessing, Corso di Laurea in Informatica Applicata (Machine Learning e Big data), Università degli Studi di Napoli Parthenope
+- Programmazione I e Programmazione III, Corso di Laurea in Informatica, Università degli Studi di Napoli Parthenope
