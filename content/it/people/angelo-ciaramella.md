@@ -14,7 +14,7 @@ role: Fondatore Neptun-IA
 # Organizations/Affiliations
 organizations:
 - name: Università di Napoli "Parthenope"
-  url: "https://www.uniparthenope.it/ugov/person/2666"url: 
+  url: "https://www.uniparthenope.it/ugov/person/2666"
 - name: Sito web personale
   url: "https://sites.google.com/view/ciss-angelociaramella/home?authuser=2"
   
