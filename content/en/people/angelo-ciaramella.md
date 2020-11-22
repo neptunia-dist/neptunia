@@ -11,7 +11,7 @@ role: Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Naples "Parthenope"
-  url: "https://www.uniparthenope.it/ugov/person/2666"url: 
+  url: "https://www.uniparthenope.it/ugov/person/2666"
 - name: Personal Website
   url: "https://sites.google.com/view/ciss-angelociaramella/home?authuser=2"
   
