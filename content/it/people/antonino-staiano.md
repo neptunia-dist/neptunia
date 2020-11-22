@@ -17,11 +17,11 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/2665"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope".
+bio: Professore Associato in Informatica presso il Dipartimento di Scienze e Tecnologie dell'Università degli Studi di Napoli "Parthenope".
+Ha conseguito il Dottorato in Informatica (2004) e la Laurea in Scienze dell’Informazione (1998), presso l’Università di Salerno. È responsabile scientifico del progetto “Smart Energy Efficiency Environment for Industry” - PON “Ricerca ed Innovazione” 2014-2020, è membro del Consiglio Direttivo del CINI e Senior Member dell’IEEE. 
 
 interests:
--
--
+
 -
 
 #education:
@@ -58,5 +58,6 @@ highlight_name: false
 Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
 
 # Ricerca
-
+L’attività di ricerca verte su Machine e Deep Learning, Big Data Analytics e applicazioni in Scienze Ambientali ed Ecologia, Bioinformatica, Astrofisica, IoT.
 # Didattica
+È titolare degli insegnamenti di Sistemi Operativi, Elaborazione delle Immagini ed Ingegneria del Software nel CdL in Informatica e dell'insegnamento di Computer Vision, nel CdL Magistrale in Machine Learning and Big Data. 
