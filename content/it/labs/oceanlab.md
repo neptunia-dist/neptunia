@@ -1,6 +1,6 @@
 ---
 description: "Laboratorio di Oceanografia"
-featured_image: "/images/oceanlab001.jpeg"
+featured_image: "/images/oceanlab001.png"
 tags: ["lab"]
 title: "Ocean Lab"
 logo: "/images/oceanlab_logo.png"
