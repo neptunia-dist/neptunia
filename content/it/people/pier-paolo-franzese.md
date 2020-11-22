@@ -3,7 +3,7 @@
 weight: 20
 
 # Display name
-title: Pierpaolo Franzese
+title: Pier Paolo Franzese
 
 # Is this the primary user of the site?
 superuser: false
