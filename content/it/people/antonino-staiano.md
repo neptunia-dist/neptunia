@@ -58,5 +58,6 @@ Ha conseguito il Dottorato in Informatica (2004) e la Laurea in Scienze dell’I
 
 # Ricerca
 L’attività di ricerca verte su Machine e Deep Learning, Big Data Analytics e applicazioni in Scienze Ambientali ed Ecologia, Bioinformatica, Astrofisica, IoT.
+
 # Didattica
 È titolare degli insegnamenti di Sistemi Operativi, Elaborazione delle Immagini ed Ingegneria del Software nel CdL in Informatica e dell'insegnamento di Computer Vision, nel CdL Magistrale in Machine Learning and Big Data. 
