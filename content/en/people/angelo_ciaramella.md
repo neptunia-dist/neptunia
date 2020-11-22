@@ -11,15 +11,19 @@ role: Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Naples "Parthenope"
-  url: "https://www.uniparthenope.it/ugov/person/2497"
+  url: "https://www.uniparthenope.it/ugov/person/2666"url: 
+  url: "https://sites.google.com/view/ciss-angelociaramella/home?authuser=2"
+  
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associte professor of Computer Science at the Department of Science and Technology of the University of Naples "Parthenope". Head of the research  laboratory Computational Intelligence & Smart System Lab.
+bio: Associte professor of Computer Science - Director of Apple iOS Foundation Program Parthenope - Head of the research  laboratory Computational Intelligence & Smart System Lab - Department of Science and Technology of the University of Naples "Parthenope". 
 
 interests:
--
--
--
+- Computational Intelligence 
+- Machine Learning
+- Biuoinformatics 
+- Intelligent Signal Processing 
+- Computer Vision 
 
 #education:
 #  courses:
