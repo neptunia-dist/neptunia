@@ -29,3 +29,9 @@ Neptun-IA valorizza appieno le competenze attuali presenti nel DIST, sia nell’
 **NEPTUN-IA rappresenta un unicum nel panorama scientifico nazionale, proponendosi come laboratorio di ricerca guida nelle applicazioni dell’IA alle tematiche inerenti al mare, sia a livello regionale che nazionale.**
 
 Il responsabile designato di Neptun-IA è il Prof. Giulio Giunta, coadiuvato da una commissione scientifica costituita dai responsabili dei singoli laboratori afferenti.
+
+# Presentazione Neptun-IA Futuro Remoto 2020
+[![Presentazione Neptun-IA.](https://img.youtube.com/vi/IeBCgSqpVgI/0.jpg)](https://www.youtube.com/watch?v=IeBCgSqpVgI)
+
+# Presentazione RCF Futuro Remoto 2020
+[![Presentazione Neptun-IA.](https://img.youtube.com/vi/xPYJ1qxf3IU/0.jpg)](https://www.youtube.com/watch?v=xPYJ1qxf3IU)
