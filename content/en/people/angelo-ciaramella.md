@@ -12,6 +12,7 @@ role: Associate
 organizations:
 - name: University of Naples "Parthenope"
   url: "https://www.uniparthenope.it/ugov/person/2666"url: 
+- name: Personal Website
   url: "https://sites.google.com/view/ciss-angelociaramella/home?authuser=2"
   
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +45,7 @@ social:
   link: https://scholar.google.it/citations?user=8TfWi0EAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "angelo.ciaramella@uniparthenope.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
