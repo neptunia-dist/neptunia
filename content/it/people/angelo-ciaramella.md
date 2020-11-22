@@ -14,15 +14,19 @@ role: Fondatore Neptun-IA
 # Organizations/Affiliations
 organizations:
 - name: Università di Napoli "Parthenope"
-  url: "https://www.uniparthenope.it/ugov/person/2497"
+  url: "https://www.uniparthenope.it/ugov/person/2666"url: 
+  url: "https://sites.google.com/view/ciss-angelociaramella/home?authuser=2"
+  
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca Computational Intelligence & Smart System Lab.
+bio: Professore associato in Informatica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope" -  Direttore dell' Aplle iOS Foundation Program - Direttore del Laboratorio di Ricerca Computational Intelligence & Smart System Lab
 
 interests:
--
--
--
+- Computational Intelligence
+- Machine Learning 
+- Intelligent Signal Processing 
+- Computer Vision 
+- Bioinformatics 
 
 #education:
 #  courses:
