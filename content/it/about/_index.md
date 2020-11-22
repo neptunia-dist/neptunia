@@ -31,7 +31,7 @@ Neptun-IA valorizza appieno le competenze attuali presenti nel DIST, sia nell’
 Il responsabile designato di Neptun-IA è il Prof. Giulio Giunta, coadiuvato da una commissione scientifica costituita dai responsabili dei singoli laboratori afferenti.
 
 # Presentazione Neptun-IA Futuro Remoto 2020
-[![Presentazione Neptun-IA.](https://img.youtube.com/vi/IeBCgSqpVgI/0.jpg)](https://www.youtube.com/watch?v=IeBCgSqpVgI)
+[![Presentazione Neptun-IA.](https://img.youtube.com/vi/uUCVfFVl-1c/0.jpg)](https://www.youtube.com/watch?v=uUCVfFVl-1c)
 
 # Presentazione RCF Futuro Remoto 2020
 [![Presentazione Neptun-IA.](https://img.youtube.com/vi/xPYJ1qxf3IU/0.jpg)](https://www.youtube.com/watch?v=xPYJ1qxf3IU)
