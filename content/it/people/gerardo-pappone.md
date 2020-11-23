@@ -55,7 +55,7 @@ highlight_name: false
 #- Visitors
 ---
 
-Professore Ordinario in Geologia Stratigrafica e Sedimentologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
+Professore Ordinario in Geologia Stratigrafica e Sedimentologica presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". 
 
 # Ricerca
 
