@@ -17,7 +17,7 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/2314"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professore Associato in Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Ecodinamica e Sviluppo Sostenibile.
+bio: Professore Associato di Ecologia presso il Dipartimento di Scienze e Tencologie dell'Università degli Studi di Napoli "Parthenope". Direttore del Laboratorio di Ricerca di Ecodinamica e Sviluppo Sostenibile. Coordinatore Cattedra UNESCO in "Ambiente, Risorse e Sviluppo Sostenibile". Presidente della International Society for the Advancement of Emergy Research (ISAER). Coordinatore dei Gruppi di Lavoro Nazionali "Capitale Naturale, Servizi Ecosistemici e Contabilità Ambientale" della Società Italiana di Ecologia (SItE), della Società Italiana di Biologia Marina (SIBM) e dell'Ordine Nazionale dei Biologi (ONB).
 
 interests:
 -
