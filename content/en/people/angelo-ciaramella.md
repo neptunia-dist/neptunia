@@ -58,5 +58,9 @@ highlight_name: false
 ---
 
 # Research
+Angelo Ciaramella (AC) graduated (cum laude) in Computer Science at the University of Salerno in 1998 and at the same University he obtained a PhD in Computer Science in 2002. He is currently Associate Professor, President  of the Course of Studies in Computer Science, director of the Apple iOS Foundation Program and director of the "Computational Intelligence and Smart Systems Lab" at the University of Naples "Parthenope". The research activities are mainly focused on Computational Intelligence, Machine Learning and Data Mining in the fields of Intelligence Signal Processing, Bioinformatics and Computer Vision. AC has been conducting  activities of associate editor of international journals (ie, Information Sciences, Soft Computing, International Journal on Artificial Intelligence Tools), co-editor of volumes (Internet and Distributed Computing Systems (LNBI), Computational Intelligence Methods for Bioinformatics and Biostatistics (LNBI)) and guest editor of Special Issue (Recent Machine Learning Applications to Internet of Things (IoT), Electronics). He has been co-general Chair (IDCS2019), technical chair (CIBB2018), organizer and chair of Special Session (ie, CIBB2018, WIRN2018-2019, Fuzz-IEEE 2017, NAFIPS 2004), and is on the Program Committee of international conferences ( CIBB2018-2019, Fuzz-IEEE 2017, GCIS, ICIC2005-2020, AI2IA 2020). AC is Senior Member of the IEEE and member of the IEEE Computational Intelligence Society, IEEE Signal Processing, SIREN, GIRPR and AIxIA.
 
 # Teaching
+- Machine Learning - Course of Studies in Applied Computer Science (Machine Learning and Big Data), University of Naples Parthenope
+- Intelligent Signal Processing - Course of Studies in Applied Computer Science (Machine Learning and Big Data), University of Naples Parthenope
+- Programming I and Programmain III - Course of Studies in Computer Science, University of Naples Parthenope
