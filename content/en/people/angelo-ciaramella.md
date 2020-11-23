@@ -63,4 +63,4 @@ Angelo Ciaramella (AC) graduated (cum laude) in Computer Science at the Universi
 # Teaching
 - Machine Learning - Course of Studies in Applied Computer Science (Machine Learning and Big Data), University of Naples Parthenope
 - Intelligent Signal Processing - Course of Studies in Applied Computer Science (Machine Learning and Big Data), University of Naples Parthenope
-- Programming I and Programmain III - Course of Studies in Computer Science, University of Naples Parthenope
+- Programming I and Programming III - Course of Studies in Computer Science, University of Naples Parthenope
