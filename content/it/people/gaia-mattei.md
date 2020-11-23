@@ -14,8 +14,8 @@ role: Associato Neptun-IA
 # Organizations/Affiliations
 organizations:
 - name: Università di Napoli "Parthenope"
-  url: "https://www.uniparthenope.it/ugov/person/2497"
-
+  url: "https://www.researchgate.net/profile/Gaia_Mattei"
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Assegnista di ricerca in GEO04 presso il Dipartimento di Scienze e Tecnologie dell’Università degli Studi di Napoli “Parthenope” dal 2018. 
 interest:
@@ -57,6 +57,4 @@ highlight_name: false
 Assegnista di ricerca in GEO04 presso il Dipartimento di Scienze e Tecnologie dell’Università degli Studi di Napoli “Parthenope” dal 2018, ha conseguito il titolo di dottore di ricerca presso l’Università degli Studi di Napoli Parthenope in “Scienze del Mare della Terra e del Clima” nel 2016, sta svolgendo attività di ricerca presso il Dipartimento di Scienze e Tecnologie dell'Università degli Studi di Napoli Parthenope nel settore della Geomorfologia e Geoarcheologia costiera. 
 Esperta in studi sull’evoluzione del paesaggio costiero, di variazioni relative del livello marino e degli adattamenti antropici ai cambiamenti costieri durante l’Olocene, mediante l’analisi integrata di dati geomorfologici, geoarcheologici e di geofisica marina 
 
-# Ricerca
 
-# Didattica
