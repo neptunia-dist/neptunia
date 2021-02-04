@@ -3,7 +3,7 @@ baseURL = "https://neptunia.uniparthenope.it"
 languageCode = "en-us"
 theme = "ananke"
 
-DefaultContentLanguage = "it"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 
 Paginate = 32 # this is set low for demonstrating with dummy content. Set to a higher number
