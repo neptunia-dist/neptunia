@@ -45,9 +45,9 @@ Potential topics include (but are not limited to):
 The scientific program will include, besides some invited talks and tutorials, contributed papers that will be presented in plenary oral or poster sessions.
 
 # Chairs
-- **Angelo Ciaramella** - University of Naples Parthenope
-- **Raffaele Montella** - University of Naples Parthenope
-- **Patrizio Mariani** - Technical University of Denmark
+- **[Angelo Ciaramella](https://sites.google.com/view/ciss-angelociaramella/home)** - University of Naples Parthenope
+- **[Raffaele Montella](http://raffaelemontella.it)** - University of Naples Parthenope 
+- **[Patrizio Mariani](https://www.dtu.dk/english/service/phonebook/person?id=39819&cpid=&tab=1)** - Technical University of Denmark
 
 # Important dates
 - Submission Due: March 21, 2021
@@ -56,8 +56,7 @@ The scientific program will include, besides some invited talks and tutorials, c
 - Conference: July 21-22, 2021
 
 # Guidelines for paper submission
-All the details about paper submission and related paraphernalia are available here: https://www.ijcnn.org/paper-submission-2021
+All the details about paper submission and related paraphernalia are available [here](https://www.ijcnn.org/paper-submission-2021).
 
-# Submit your paper
-https://ieee-cis.org/conferences/ijcnn2021/upload.php
+# [Submit your paper!](https://ieee-cis.org/conferences/ijcnn2021/upload.php)
 
