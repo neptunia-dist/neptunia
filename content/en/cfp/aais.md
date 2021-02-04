@@ -19,11 +19,12 @@ The purpose of the workshop is to host recent research advances in the field of 
 Potential topics include (but are not limited to):
 
 * Theory and Methodologies
-** Applied and Computational Mathematics;
-** Computational Intelligence;
-** Data Mining;
-** Machine Learning;
-** Statistical Methods.
+
+- Applied and Computational Mathematics;
+- Computational Intelligence;
+- Data Mining;
+- Machine Learning;
+- Statistical Methods.
 
 * Applications  
 ** Marine Biology and Genomics;
