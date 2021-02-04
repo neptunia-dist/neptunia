@@ -19,8 +19,41 @@ The purpose of the workshop is to host recent research advances in the field of 
 Potential topics include (but are not limited to):
 
 * Theory and Methodologies
-- Applied and Computational Mathematics;
-- Computational Intelligence;
-- Data Mining; 
-- Machine Learning;
-- Statistical Methods.
+** Applied and Computational Mathematics;
+** Computational Intelligence;
+** Data Mining;
+** Machine Learning;
+** Statistical Methods.
+
+* Applications  
+** Marine Biology and Genomics;
+** Marine ecology; 
+** Marine applications of federating learning;
+** Management of living resources;
+** Satellite Imaging and Remote sensing;
+** Navigation and survey planning; 
+** Marine automation and robotics; 
+** Signal processing and Computer Vision for Marine Science; 
+** Computational intelligence at the edge and osmotic computing;
+** Big data management, services and decision support tools; 
+** Lagrangian/Eulerian computational modelling;
+** Operational weather and marine forecasts and predictions;
+** Massive workflows for AI powered marine science.
+** IoT for marine science.
+
+The scientific program will include, besides some invited talks and tutorials, contributed papers that will be presented in plenary oral or poster sessions.
+
+**Chairs**
+* **Angelo Ciaramella** - University of Naples Parthenope
+* **Raffaele Montella** - University of Naples Parthenope
+* **Patrizio Mariani** - Technical University of Denmark
+
+* Important dates
+- Submission Due: June 1, 2019 June 20, 2019 July 10, 2019 (firm deadline)
+- Acceptance Notification: July 31, 2019
+- Camera-ready Copy Due: August 19, 2019
+- Registration Due: August 5/September 6, 2019,
+23:59 (ETC)
+- Conference: July 21-22, 2021
+
+
