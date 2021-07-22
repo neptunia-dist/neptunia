@@ -28,4 +28,4 @@ Neptun-IA fully enhances the current skills present in the DIST, both in the mar
 
 **NEPTUN-IA is unique in the national scientific landscape, serving as a leading research laboratory in the applications of AI to issues related to the sea, both at a regional and national level.**
 
-The designated manager of Neptun-IA is Prof. Giulio Giunta, assisted by a scientific commission made up of the heads of the individual laboratories.
+The designated manager of Neptun-IA is Prof. Antonino Staiano, assisted by a scientific commission made up of the heads of the individual laboratories.
