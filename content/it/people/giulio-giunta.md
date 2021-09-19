@@ -9,7 +9,7 @@ title: Giulio Giunta
 superuser: false
 
 # Role/position
-role: Fondatore e Direttore Neptun-IA
+role: Fondatore 
 
 # Organizations/Affiliations
 organizations:
