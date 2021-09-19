@@ -14,7 +14,7 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/2665"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in Computer Science at the Department of Science and Technology of the University of Naples "Parthenope". He holds a PhD in Computer Science (2004) and a Laurea Degree in Computer Science (1998) from the University of Salerno. Scientific manager of the project "Smart Energy Efficiency Environment for Industry" - PON "Research and Innovation" 2014-2020. Member of the Board of Directors of CINI and Senior Member of the IEEE. The research activity focuses on Machine and Deep Learning, Big Data Analytics and applications in Environmental Sciences and Ecology, Bioinformatics, Astrophysics, IoT.
+bio: Associate Professor in Computer Science at the Department of Science and Technology of the University of Naples "Parthenope". Scientific manager of the project "Smart Energy Efficiency Environment for Industry" - PON "Research and Innovation" 2014-2020. The research activity focuses on Machine and Deep Learning, Big Data Analytics and applications in Environmental Sciences and Ecology, Bioinformatics, Astrophysics, IoT.
 
 interests:
 -
