@@ -6,7 +6,7 @@ title: Antonino Staiano
 superuser: false
 
 # Role/position
-role: Associate
+role: Head of the Neptun-IA Lab
 
 # Organizations/Affiliations
 organizations:
