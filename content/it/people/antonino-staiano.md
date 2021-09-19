@@ -9,7 +9,7 @@ title: Antonino Staiano
 superuser: false
 
 # Role/position
-role: Fondatore Neptun-IA
+role: Fondatore e Direttore Neptun-IA
 
 # Organizations/Affiliations
 organizations:
