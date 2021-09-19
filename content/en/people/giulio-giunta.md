@@ -6,7 +6,7 @@ title: Giulio Giunta
 superuser: false
 
 # Role/position
-role: Head of the Neptun-IA Laboratory
+role: Associate
 
 # Organizations/Affiliations
 organizations:
