@@ -9,7 +9,7 @@ title: Giulio Giunta
 superuser: false
 
 # Role/position
-role: Fondatore 
+role: Fondatore Netpun-IA
 
 # Organizations/Affiliations
 organizations:
