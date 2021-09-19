@@ -3,7 +3,7 @@
 weight: 20
 
 # Display name
-title: Antonino Staiano
+title: Antonino Staiano (Responsabile scientifico)
 
 # Is this the primary user of the site?
 superuser: false
