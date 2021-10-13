@@ -28,7 +28,7 @@ The scientific program will include, besides some invited talks and tutorials, c
 
 # Chairs
 - **[Angelo Ciaramella](mailto:angelo.ciaramella@uniparthenope.it)** - University of Naples Parthenope
-- **[Sajid Javed](mailto:sajid.javed@ku.ac.ae)** - University of Abu Dhabi
+- **[Sajid Javed](mailto:sajid.javed@ku.ac.ae)** - Khalifa University of Science and Technology
 - **[Alessio Ferone](mailto:alessio.ferone@uniparthenope.it)** - University of Naples Parthenope
 
 # Important dates
@@ -39,4 +39,4 @@ The scientific program will include, besides some invited talks and tutorials, c
 # Guidelines for paper submission
 See conference web site (https://www.iciap2021.org) for detailed formatting instructions (Springer LaTeX2e Proceedings Template)
 
-# [Papers should be submitted through Easychair](https://)
+# [Papers should be submitted through Easychair](https://easychair.org/conferences/?conf=cvcmem22)
