@@ -27,9 +27,9 @@ Potential topics include (but are not limited to):
 The scientific program will include, besides some invited talks and tutorials, contributed papers that will be presented in plenary oral or poster sessions.
 
 # Chairs
-- **[Angelo Ciaramella](angelo.ciaramella@uniparthenope.it)** - University of Naples Parthenope
-- **[Sajid Javed](sajid.javed@ku.ac.ae)** - University of Abu Dhabi
-- **[Alessio Ferone](alessio.ferone@uniparthenope.it)** - University of Naples Parthenope
+- **[Angelo Ciaramella](mailto:angelo.ciaramella@uniparthenope.it)** - University of Naples Parthenope
+- **[Sajid Javed](mailto:sajid.javed@ku.ac.ae)** - University of Abu Dhabi
+- **[Alessio Ferone](mailto:alessio.ferone@uniparthenope.it)** - University of Naples Parthenope
 
 # Important dates
 - Paper Submission Deadline: January 17, 2022
