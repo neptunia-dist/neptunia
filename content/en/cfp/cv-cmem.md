@@ -32,7 +32,7 @@ The scientific program will include, besides some invited talks and tutorials, c
 - **[Alessio Ferone](mailto:alessio.ferone@uniparthenope.it)** - Assistant Professor, Department of Science and Technology, University of Naples Parthenope 
 
 # Important dates
-- Paper Submission Deadline: January 17, 2022
+- Paper Submission Deadline: January 31, 2022
 - Decision Notification: February 19, 2022
 - Camera Ready: March 6, 2022
 
