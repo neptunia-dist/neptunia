@@ -27,7 +27,7 @@ Potential topics include (but are not limited to):
 The scientific program will include, besides some invited talks and tutorials, contributed papers that will be presented in plenary oral or poster sessions.
 
 # Chairs
-- **[Angelo Ciaramella](mailto:angelo.ciaramella@uniparthenope.it)** - Associate Professor, Department of Science and Technology, University of Naples Parthenope (**[web page](https://sites.google.com/view/ciss-angelociaramella/home)**)
+- **[Angelo Ciaramella](mailto:angelo.ciaramella@uniparthenope.it)** - Full Professor, Department of Science and Technology, University of Naples Parthenope (**[web page](https://sites.google.com/view/ciss-angelociaramella/home)**)
 - **[Sajid Javed](mailto:sajid.javed@ku.ac.ae)** - Assistant Professor, Department of Electrical Engineering and Computer Science, Khalifa University of Science and Technology (**[web page](https://www.ku.ac.ae/college-people/dr-sajid-javed)**)
 - **[Alessio Ferone](mailto:alessio.ferone@uniparthenope.it)** - Assistant Professor, Department of Science and Technology, University of Naples Parthenope 
 
